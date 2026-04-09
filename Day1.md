@@ -19,6 +19,7 @@
 - Basic workflow of running Python scripts in Linux
 
 ## Example commands
+
 pwd
 ls
 cd ~/cyberlab
