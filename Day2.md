@@ -21,6 +21,7 @@
 
 ## Example commands
 
+```bash
 sudo tcpdump -i enp0s3
 sudo tcpdump -i enp0s3 icmp
 sudo tcpdump -i enp0s3 port 53
