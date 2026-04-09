@@ -52,8 +52,6 @@ for target in targets:
 
 ## Mitä opin (FI)
 
-## Mitä opin (FI)
-
 - Opin parantamaan Python-työkalua niin, että se käsittelee useita kohteita automaattisesti  
 - Opin käyttämään for-silmukkaa käytännössä  
 - Ymmärsin, että Pythonissa sisennys on erittäin tärkeä  
