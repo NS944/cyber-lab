@@ -20,6 +20,7 @@
 - How Python can be used to automate network actions
 
 ## Example commands
+
 sudo tcpdump -i enp0s3
 sudo tcpdump -i enp0s3 icmp
 sudo tcpdump -i enp0s3 port 53
