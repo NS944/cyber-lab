@@ -54,7 +54,7 @@ for target in targets:
 
 - Opin parantamaan Python-työkalua niin, että se käsittelee useita kohteita automaattisesti  
 - Opin käyttämään for-silmukkaa käytännössä  
-- Ymmärsin, että Pythonissa sisennys on erittäin tärkeä  
+- Ymmärsin, että Pythonissa sisennys on erittäin tärkeää  
 - Opin eron TCP-, ICMP- ja DNS-liikenteen välillä  
 - Ymmärsin, että TCP-yhteys alkaa SYN-paketilla  
 - Opin, että verkkoliikenne on jatkuvaa ja sisältää taustakohinaa  
