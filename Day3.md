@@ -1,4 +1,4 @@
-Day 3 — Multi-Target Scanning, TCP & Detection Mindset
+#Day 3 — Multi-Target Scanning, TCP & Detection Mindset
 What I did (EN)
 
 • Improved my Python script to scan multiple targets automatically
