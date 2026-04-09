@@ -19,14 +19,14 @@
 - Basic workflow of running Python scripts in Linux
 
 ## Example commands
-
+```
 pwd
 ls
 cd ~/cyberlab
 nano file.txt
 cat file.txt
 python3 hello.py
-
+```
 ## Mitä opin (FI)
 - Opin asentamaan Linux-palvelimen virtuaalikoneeseen
 - Opin käyttämään peruskomentoja (ls, cd, pwd)
