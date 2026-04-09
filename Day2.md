@@ -30,6 +30,9 @@ python3 scan.py
 ```
 
 ## Example Python
+
+
+```bash
 import os
 
 target = input("Enter target: ")
@@ -42,6 +45,7 @@ if result == 0:
     print("Target is reachable")
 else:
     print("Target is NOT reachable")
+```
 
 ## Mitä opin (FI)
 - Opin kaappaamaan verkkoliikennettä tcpdump-työkalulla
