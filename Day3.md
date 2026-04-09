@@ -52,14 +52,16 @@ for target in targets:
 
 ## Mitä opin (FI)
 
-• Opin parantamaan Python-työkalua niin, että se käsittelee useita kohteita automaattisesti
-• Opin käyttämään for-silmukkaa käytännössä
-• Ymmärsin, että Pythonissa sisennys on erittäin tärkeä
-• Opin eron TCP-, ICMP- ja DNS-liikenteen välillä
-• Ymmärsin, että TCP-yhteys alkaa SYN-paketilla
-• Opin, että verkkoliikenne on jatkuvaa ja sisältää taustakohinaa
-• Opin suodattamaan TCP-liikennettä tcpdumpilla
-• Ymmärsin, että kyberturvallisuudessa tärkeää on tunnistaa liikennemalleja
+## Mitä opin (FI)
+
+- Opin parantamaan Python-työkalua niin, että se käsittelee useita kohteita automaattisesti  
+- Opin käyttämään for-silmukkaa käytännössä  
+- Ymmärsin, että Pythonissa sisennys on erittäin tärkeä  
+- Opin eron TCP-, ICMP- ja DNS-liikenteen välillä  
+- Ymmärsin, että TCP-yhteys alkaa SYN-paketilla  
+- Opin, että verkkoliikenne on jatkuvaa ja sisältää taustakohinaa  
+- Opin suodattamaan TCP-liikennettä tcpdumpilla  
+- Ymmärsin, että kyberturvallisuudessa tärkeää on tunnistaa liikennemalleja  
 
 ## Thoughts
 
