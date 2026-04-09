@@ -27,6 +27,7 @@ sudo tcpdump -i enp0s3 icmp
 sudo tcpdump -i enp0s3 port 53
 ping google.com
 python3 scan.py
+```
 
 ## Example Python
 import os
