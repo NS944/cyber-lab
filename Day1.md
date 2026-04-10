@@ -28,7 +28,7 @@ cat file.txt
 ```
 ## Example Python
 ```
-python3 hello.py
+print("Hello, Cyber Lab!")
 ```
 
 ## Mitä opin (FI)
