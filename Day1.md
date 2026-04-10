@@ -25,6 +25,7 @@ ls
 cd ~/cyberlab
 nano file.txt
 cat file.txt
+python3 hello.py
 ```
 ## Example Python
 ```
