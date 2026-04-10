@@ -28,6 +28,9 @@ cat file.txt
 python3 hello.py
 ```
 ## Example Python
+```
+python3 hello.py
+```
 
 ## Mitä opin (FI)
 - Opin asentamaan Linux-palvelimen virtuaalikoneeseen
