@@ -61,6 +61,6 @@ for port in ports:
 - Opin, miten porttiskannaus toimii käytännössä
 - Ymmärsin, että kyberturvallisuudessa etsitään avoimia palveluita
 
-Thoughts
+## Thoughts
 
 Today felt like a shift from basic scripting to something closer to real cybersecurity work. Instead of just checking if a system is reachable, I started identifying what services are running. This made the tools feel much more practical and closer to real-world use.
