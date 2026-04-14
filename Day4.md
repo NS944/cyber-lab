@@ -51,5 +51,16 @@ for port in ports:
 
     sock.close()
 ```
-##Mitä opin (FI)
+## Mitä opin (FI)
 - Opin käsittelemään käyttäjän syötettä Pythonissa ja jakamaan sen useisiin kohteisiin
+- Opin käyttämään split()-funktiota listojen muodostamiseen
+- Ymmärsin, että portit edustavat palveluita tietokoneessa
+- Opin, että TCP-yhteydellä voidaan testata portin avoimuus
+- Ymmärsin, että avoin portti tarkoittaa saavutettavaa palvelua
+- Opin eron etäkohteen ja localhostin skannaamisen välillä
+- Opin, miten porttiskannaus toimii käytännössä
+- Ymmärsin, että kyberturvallisuudessa etsitään avoimia palveluita
+
+Thoughts
+
+Today felt like a shift from basic scripting to something closer to real cybersecurity work. Instead of just checking if a system is reachable, I started identifying what services are running. This made the tools feel much more practical and closer to real-world use.
