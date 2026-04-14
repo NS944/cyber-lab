@@ -52,11 +52,11 @@ for port in ports:
     sock.close()
 ```
 ##Mitä opin (FI)
--Opin käsittelemään käyttäjän syötettä Pythonissa ja jakamaan sen useisiin kohteisiin
--Opin käyttämään split()-funktiota listojen muodostamiseen
--Ymmärsin, että portit edustavat palveluita tietokoneessa
--Opin, että TCP-yhteydellä voidaan testata portin avoimuus
--Ymmärsin, että avoin portti tarkoittaa saavutettavaa palvelua
--Opin eron etäkohteen ja localhostin skannaamisen välillä
--Opin, miten porttiskannaus toimii käytännössä
--Ymmärsin, että kyberturvallisuudessa etsitään avoimia palveluita
+•Opin käsittelemään käyttäjän syötettä Pythonissa ja jakamaan sen useisiin kohteisiin
+•Opin käyttämään split()-funktiota listojen muodostamiseen
+•Ymmärsin, että portit edustavat palveluita tietokoneessa
+•Opin, että TCP-yhteydellä voidaan testata portin avoimuus
+•Ymmärsin, että avoin portti tarkoittaa saavutettavaa palvelua
+•Opin eron etäkohteen ja localhostin skannaamisen välillä
+•Opin, miten porttiskannaus toimii käytännössä
+•Ymmärsin, että kyberturvallisuudessa etsitään avoimia palveluita
