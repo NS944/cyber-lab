@@ -27,7 +27,7 @@
 python3 scan.py
 python3 port_scan.py
 ```
-##Example python
+## Example python
 
 ```
 import socket
