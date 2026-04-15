@@ -81,6 +81,6 @@ for target in targets:
 - Opin, että työkalun tulee esittää tulokset selkeästi
 - Opin, että tulosten yhteenveto parantaa käytettävyyttä
 - Ymmärsin paremmin, miten skannerit toimivat kyberturvallisuudessa
-- Thoughts
 
+## Thoughts
 Today felt like building a real tool instead of just small scripts. Combining multiple features into one workflow and improving the output made the program feel more practical and closer to real-world cybersecurity tools.
